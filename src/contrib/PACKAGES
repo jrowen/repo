@@ -1,0 +1,8 @@
+Package: rhandsontable
+Version: 0.3.7
+Imports: jsonlite, htmlwidgets (>= 0.3.3), magrittr, methods
+Suggests: knitr, rmarkdown, shiny (>= 0.13), miniUI (>= 0.1.1),
+       rstudioapi (>= 0.6), htmltools
+License: MIT + file LICENSE
+MD5sum: 885748d1160453dbba7537d9ec71f78e
+NeedsCompilation: no
